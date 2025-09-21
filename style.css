@@ -25,23 +25,32 @@ color: #fff;
 
 .main-section {
     /* Стили для первой секции */
+    background-color: #fafaff;
 }
 
 .main-title {
     /* Стили для заголовка в первой секции */
+font-weight: 700;
+font-size: 48px;
+color: #303030;
 }
 
 .main-text {
     /* Стили для текста в первой секции */
+font-weight: 400;
+font-size: 18px;
+color: #303030;
 }
 
 .main-image {
     /* Стили для изображения в первой секции */
+width="715" height="508" 
 }
 
 
 .about-section {
     /* Стили для второй секции */
+    
 }
 
 select {
