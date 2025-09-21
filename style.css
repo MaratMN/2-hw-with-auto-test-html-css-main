@@ -48,21 +48,29 @@ color: #303030;
 
 .main-image {
     /* Стили для изображения в первой секции */
-max-width:="715px" height="508px" 
+max-width: 715px 
 }
 
 
 .about-section {
     /* Стили для второй секции */
-
+background-color: #fafaff;
+padding: 100px 0px 60px;
 }
 
 select {
     /* Стили для выпадающего списка */
+font-weight: 400;
+font-size: 16px;
+color: #303030;
 }
 
 .section-title {
     /* Стили для заголовков во второй секции */
+font-weight: 700;
+font-size: 24px;
+color: #303030;
+margin-bottom: 25px;
 }
 
 .frameworks-list {
