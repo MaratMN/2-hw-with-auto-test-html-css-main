@@ -60,7 +60,7 @@ padding: 100px 0px;
 
 select {
     /* Стили для выпадающего списка */
-list-style-image: url(./assets/image/VectorOne.svg)
+list-style-image: url(./assets/image/VectorOne.svg);
 background-color: rgba(255, 255, 255, 0);
 border: 1px solid rgba(48, 48, 48, 0.3);
 border-radius: 5px;
@@ -145,9 +145,11 @@ color: #303030;
 
 th {font-weight: 700;
 font-size: 14px;
+padding:12px 15px;
 } td {
 font-weight: 400;
 font-size: 14px;
+padding:12px 15px;
     /* Стили для ячеек таблицы */
 }
 
@@ -162,5 +164,5 @@ footer {
 font-weight: 400;
 font-size: 14px;
 color: #2965f1;
-text-decoration-line: underline;
+text-decoration-line: none;
 }
