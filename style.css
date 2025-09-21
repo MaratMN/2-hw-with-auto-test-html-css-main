@@ -5,14 +5,22 @@
     box-sizing:border-box;
 }
 
-body {}
+body {
+    font-family: 'Inter', sans-serif;
+    color: #303030
+}
 
 header {
     /* Стили для хедера */
+    background-color: #2965f1;
+    padding: 23px 0;
 }
 
 header span {
     /* Стили для текста в хедере IT-INCUBATOR */
+    font-weight: 700;
+font-size: 20px;
+color: #fff;
 }
 
 .main-section {
