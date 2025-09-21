@@ -62,6 +62,7 @@ select {
     /* Стили для выпадающего списка */
 list-style-image: url(./assets/image/VectorOne.svg);
 background-color: rgba(255, 255, 255, 0);
+background-repeat: no-repeat;
 border: 1px solid rgba(48, 48, 48, 0.3);
 border-radius: 5px;
 width: 150px;
